@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "I:/Jossgrundmap Arma assets/Screenshot 2025-12-31 223615.png"
+ sRGBOutput 1
+ RenderRoads 0
+ Interpolation bilinear
+ RoadsAA "8x"
+}

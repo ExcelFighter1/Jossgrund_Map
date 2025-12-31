@@ -41,5 +41,5 @@ $grp GenericWorldPPEffect {
 }
 TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeatherManager.et" {
  coords 0.656 0 3.545
- "Initial Day Time" 21.25
+ "Initial Day Time" 7.605
 }
