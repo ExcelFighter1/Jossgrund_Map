@@ -1,0 +1,45 @@
+$grp GenericWorldPPEffect {
+ SSR {
+  coords 1.813 0 1.968
+  Priority 0
+  Profile 4
+ }
+ SSDO {
+  coords -4.744 0 7.771
+  Priority 14
+  Profile 3
+ }
+ Godrays {
+  coords -4.744 0 7.771
+  Priority 1
+  Profile 1
+ }
+ Underwater {
+  coords -4.744 0 7.771
+  Priority 2
+  Profile 5
+ }
+ HBAO {
+  coords -4.744 0 7.771
+  Priority 15
+  Profile 0
+ }
+ Rain {
+  coords -4.744 0 7.771
+  Profile 7
+ }
+ PPAA {
+  coords -4.744 0 7.771
+  Priority 17
+  Profile 6
+ }
+ HDR {
+  coords -4.744 0 7.771
+  Priority 16
+  Profile 2
+ }
+}
+TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeatherManager.et" {
+ coords 0.656 0 3.545
+ "Initial Day Time" 21.25
+}

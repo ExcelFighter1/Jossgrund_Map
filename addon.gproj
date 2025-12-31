@@ -1,0 +1,8 @@
+GameProject {
+ ID "Jossgrund"
+ GUID "673F06E3433E059F"
+ TITLE "Jossgrund"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
