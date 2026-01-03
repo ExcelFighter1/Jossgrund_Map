@@ -1,7 +1,7 @@
 SatGenDescClass {
- FileName "I:/Jossgrundmap Arma assets/Jossgrund_officialMap_WithMainStreets.png"
+ FileName "I:/Jossgrundmap Arma assets/Jossgrund_officialMap_Used.png"
  sRGBOutput 1
- RenderRoads 0
+ RenderRoads 1
  Interpolation bilinear
  RoadsAA "8x"
 }
