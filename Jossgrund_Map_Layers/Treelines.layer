@@ -3,7 +3,7 @@ $grp PolylineShapeEntity {
   coords 2189.692 454.975 1304.135
   Points {
    ShapePoint "{6868F96336BDA687}" {
-    Position 0 -0 0
+    Position 0 0 0
     Data {
      ForestGeneratorPointData "{000000002C57B0BA}" {
      }
@@ -604,7 +604,6 @@ $grp PolylineShapeEntity {
       {
        coords 31.355 -13.567 139.066
        angles 0.702 -122.556 1.353
-       scale 1
       }
       {
        coords 35.552 -13.01 124.783
@@ -1423,7 +1422,6 @@ $grp PolylineShapeEntity {
       {
        coords 4.253 -2.286 33.868
        angles -1.855 -110.328 -0.534
-       scale 1
       }
       {
        coords 16.588 -5.495 61.002
@@ -2849,7 +2847,7 @@ $grp PolylineShapeEntity {
   coords 1579.256 476.115 1509.015
   Points {
    ShapePoint "{6868F962BC58050E}" {
-    Position 0 -0 0
+    Position 0 0 0
     Data {
      ForestGeneratorPointData "{000000002C57B0BA}" {
      }
@@ -4099,7 +4097,6 @@ $grp PolylineShapeEntity {
       {
        coords 58.919 -9.529 93.552
        angles 0.478 -57.471 1.954
-       scale 1
       }
       {
        coords 84.011 -15.634 134.923
@@ -10783,7 +10780,7 @@ $grp SplineShapeEntity {
   coords 2146.182 465.017 906.656
   Points {
    ShapePoint "{6868F963DE3DA847}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6868F963DE3D854A}" {
     Position 16.449 -5.163 17.074
@@ -10837,7 +10834,7 @@ $grp SplineShapeEntity {
      $grp Tree : "{B48B7DD4E1C5FE40}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_0.et" {
       {
        coords 2.527 -0.811 1.662
-       angles -13.055 42.214 -0
+       angles -13.055 42.214 0
        scale 0.574
       }
       {
@@ -11098,7 +11095,7 @@ $grp SplineShapeEntity {
   coords 2274.564 440.145 1507.115
   Points {
    ShapePoint "{6868F963BD4F8DF4}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6868F963BD4F71E3}" {
     Position -5.677 -1.374 36.043
@@ -11142,12 +11139,12 @@ $grp SplineShapeEntity {
       }
       {
        coords -0.998 -0.292 8.956
-       angles -1.511 -9.57 -0
+       angles -1.511 -9.57 0
        scale 0.4
       }
       {
        coords -3.129 -0.317 14.679
-       angles -1.511 -9.57 -0
+       angles -1.511 -9.57 0
        scale 0.4
       }
      }
@@ -11405,17 +11402,17 @@ $grp SplineShapeEntity {
       }
       {
        coords 92.283 -14.495 116.907
-       angles -6.476 37.286 -0
+       angles -6.476 37.286 0
        scale 0.7
       }
       {
        coords 163.114 -22.976 194.788
-       angles 1.798 7.929 -0
+       angles 1.798 7.929 0
        scale 0.7
       }
       {
        coords 163.042 -22.861 200.835
-       angles 0.527 1.315 -0
+       angles 0.527 1.315 0
        scale 0.7
       }
      }
@@ -11885,7 +11882,7 @@ $grp SplineShapeEntity {
   coords 2047.008 478.578 1215.004
   Points {
    ShapePoint "{6868F962EC3241F3}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6868F962EC32347B}" {
     Position -0.533 -0.085 13.721
@@ -12035,7 +12032,7 @@ $grp SplineShapeEntity {
   coords 2078.188 462.386 1448.879
   Points {
    ShapePoint "{6868F96282FC9801}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6868F96282FC8AF2}" {
     Position 5.76 -2.79 20.393
@@ -12271,7 +12268,7 @@ $grp SplineShapeEntity {
   coords 1767.19 516.687 1101.411
   Points {
    ShapePoint "{6868F962A40043FA}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6868F962A403E230}" {
     Position 11.491 -1.934 18.743
@@ -12954,7 +12951,7 @@ $grp SplineShapeEntity {
   coords 1306.119 486.283 1501.517
   Points {
    ShapePoint "{6868F96269371724}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6868F9626937044E}" {
     Position -10.438 1.558 5.329
@@ -13206,7 +13203,7 @@ $grp SplineShapeEntity {
   coords 1286.578 483.806 1667.099
   Points {
    ShapePoint "{6868F96277AFC1A2}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6868F96277AFB097}" {
     Position -11.623 1.699 6.345
@@ -13420,7 +13417,7 @@ $grp SplineShapeEntity {
   coords 1205.567 495.721 1573.26
   Points {
    ShapePoint "{6868F9627A4C3F8D}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6868F9627A4C28EE}" {
     Position -25.905 2.345 22.174
@@ -14277,12 +14274,12 @@ $grp SplineShapeEntity {
      $grp Tree : "{B48B7DD4E1C5FE40}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_0.et" {
       {
        coords 1.806 -0.155 2.392
-       angles -3.382 34.705 -0
+       angles -3.382 34.705 0
        scale 0.574
       }
       {
        coords 3.571 -0.344 4.812
-       angles -3.382 34.705 -0
+       angles -3.382 34.705 0
        scale 0.574
       }
       {
@@ -14762,7 +14759,7 @@ $grp SplineShapeEntity {
   coords 1329.072 470.612 1917.24
   Points {
    ShapePoint "{6868F97DD0BED5F5}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6868F97DD0BEC5EB}" {
     Position -15.877 2.09 -9.383
@@ -14887,7 +14884,7 @@ $grp SplineShapeEntity {
   coords 1290.659 476.997 1889.971
   Points {
    ShapePoint "{6868F97DD9D96230}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6868F97DD9D954F4}" {
     Position -22.985 3.31 -2.608
@@ -15552,7 +15549,7 @@ $grp SplineShapeEntity {
   coords 1078.062 489.356 1951.397
   Points {
    ShapePoint "{6868F97D835A8EAE}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6868F97D835A7E3E}" {
     Position -7.485 0.151 3.539
@@ -15627,7 +15624,7 @@ $grp SplineShapeEntity {
   coords 1049.442 489.513 1963.144
   Points {
    ShapePoint "{6868F97D86FA66B8}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{6868F97D86FA69CD}" {
     Position -32.675 4.784 -41.12
@@ -17135,7 +17132,7 @@ $grp SplineShapeEntity {
       }
       {
        coords -7.408 1.185 12.989
-       angles 5.262 -31.235 -0
+       angles 5.262 -31.235 0
        scale 0.4
       }
       {
@@ -17317,7 +17314,6 @@ $grp SplineShapeEntity {
       {
        coords 18.528 -16.204 272.828
        angles 2.213 32.364 1.363
-       scale 1
       }
      }
      $grp SCR_IndestructibleEnvironmentalEntity : "{926C09375D2DAA4D}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_01.et" {
@@ -17772,7 +17768,6 @@ $grp SplineShapeEntity {
       {
        coords -49.698 -1.427 81.51
        angles 359.93 -2.471 0.199
-       scale 1
       }
       {
        coords -53.731 -1.547 86.214
